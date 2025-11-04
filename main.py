@@ -1,1 +1,1 @@
-print("This is edited text on main branch.")
+print("This is what the text look like after conflict on merge.")
